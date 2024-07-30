@@ -77,7 +77,7 @@ Navigates to a specific platform's rewards section and extracts the rewards.
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/hotspot-rewards-scraper/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to email me at **[wafik.wt@gmail.com](mailto:wafik.wt@gmail.com)** if you want to contribute.
 
 ## Author
 
