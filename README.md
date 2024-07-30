@@ -1,4 +1,4 @@
-# HotSpottyScraper
+# HotspottyScraper
 This Python script scrapes reward information for Helium hotspots from the Hotspotty website using Selenium and BeautifulSoup.
 
 ## Features
